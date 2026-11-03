@@ -20,7 +20,7 @@ An independent local project with a TypeScript API, PostgreSQL/Redis, Docker, ki
 - [Project overview](https://github.com/Andrii1997Olenovych/devops-delivery-lab)
 - [Full implementation and review](https://github.com/Andrii1997Olenovych/devops-delivery-lab/pull/1)
 - [Architecture decision and runbooks](https://github.com/Andrii1997Olenovych/devops-delivery-lab/tree/feat/devops-delivery-lab-v1/docs)
-- [Successful PR validation recorded on 27 August 2026](https://github.com/Andrii1997Olenovych/devops-delivery-lab/actions/runs/33050259844/job/98443751166)
+- [Successful PR validation recorded on 3 November 2026](https://github.com/Andrii1997Olenovych/devops-delivery-lab/actions/runs/41709998757/job/126175280594)
 
 The project is a local engineering lab. The linked historical CI run passed application checks and delivery-manifest validation; its image-publication and local-deployment jobs were skipped.
 
